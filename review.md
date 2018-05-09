@@ -18,7 +18,7 @@
 1. This looks like it would take some time. Looks nice and challenging. A good amount of JS would more than likely be required. 
 
 
-2. Can't think of any options to make this less work. 
+2. Did not find any options to make this less work. 
 
 
 3. This is a good design. I like the colors, and the form has a sort of cartoony look. It's clean and precise, easy to read. One concern is the 2 submit buttons? Also, if there is a reason for 2 of them, they need to be clarified to the user.
@@ -30,7 +30,7 @@
 # Design 3 SignUp 02
 
 
-1. Not too much. Can make signup01 a modular, and reuse most of that code.  
+1. Not too much. Can make signup01 with modules, and reuse most of that code.  
 
 
 2. Same as signup 01. Just some different info inside the container for the form. Looks good, and seems pretty easy.
